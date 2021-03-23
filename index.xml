@@ -30,11 +30,11 @@
             </xs:sequence>
         </xs:complexType>
     </xs:element>
+
     <xs:element name="Resultado">
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="Id_aspirante" type="xs:integer" />
-
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -103,7 +103,6 @@
             <xs:sequence>
                 <xs:element name="Numero_Jueces" type="xs:integer" />
                 <xs:element name="Calificaion_Final" type="xs:integer" />
-
             </xs:sequence>
         </xs:complexType>
     </xs:element>
@@ -112,7 +111,6 @@
         <xs:complexType>
             <xs:sequence>
                 <xs:element name="Id_apirante" type="xs:integer" />
-
             </xs:sequence>
         </xs:complexType>
     </xs:element>
