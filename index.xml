@@ -1,0 +1,220 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+    <xs:element name="Examen">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_aspirante" type="xs:integer" />
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Aspirantes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_aspirante" type="xs:integer" />
+                <xs:element name="Nombres" type="xs:string" />
+                <xs:element name="Apellidos" type="xs:string" />
+                <xs:element name="DNI" type="xs:string" />
+                <xs:element name="Telefono" type="xs:string" />
+                <xs:element name="Direcion" type="xs:string" />
+                <xs:element name="Fecha_nacimento" type="xs:string" />
+                <xs:element name="Dan" type="xs:string" />
+                <xs:element name="Cinturon" type="xs:string" />
+                <xs:element name="Fecha_Ingreso_Dan" type="xs:string" />
+                <xs:element name="Foto_Aspirante" type="xs:string" />
+                <xs:element name="Tiempo_Dan_Anterior" type="xs:integer" />
+                <xs:element name="Foto_DNI" type="xs:string" />
+                <xs:element name="Foto_Carnet_Grados" type="xs:string" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:element name="Resultado">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_aspirante" type="xs:integer" />
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Meritos">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_aspirante" type="xs:integer" />
+                <xs:element name="Edad_aspirnate" type="xs:integer" />
+                <xs:element name="Licencia_Actualizada" type="xs:boolean" />
+                <xs:element name="Trabajo_Escrito" type="xs:boolean" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Convalidacion_Grados">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_aspirante" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Requisitos_Aspirantes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Solicitud_Hasta3_dam" type="xs:boolean" />
+                <xs:element name="Dany4_Superior_Curriculum " type="xs:boolean" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Dispensa_Medica">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_aspirante" type="xs:integer" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Criterio_Valoracion">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Indumentaria" type="xs:integer" />
+                <xs:element name="AseoPersonal" type="xs:integer" />
+                <xs:element name="EjecucionTecnica" type="xs:integer" />
+                <xs:element name="Valores" type="xs:integer" />
+                <xs:element name="Respuestas" type="xs:integer" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Jueces">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_Jueces" type="xs:integer" />
+                <xs:element name="Nombres" type="xs:string" />
+                <xs:element name="Apellidos" type="xs:string" />
+                <xs:element name="Diplomas_Juez" type="xs:boolean" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Tribunal">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Numero_Jueces" type="xs:integer" />
+                <xs:element name="Calificaion_Final" type="xs:integer" />
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Abonar_Cuota">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_apirante" type="xs:integer" />
+
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Suspender_Examen">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Id_aspirante" type="xs:integer" />
+                <xs:element name="Supender_Parcial" type="xs:boolean" />
+                <xs:element name="Suspende_Total" type="xs:boolean" />
+                <xs:element name="Suspende_Segunda_Fase" type="xs:boolean" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Quinto_Dany_Superior">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Kata" type="xs:integer" />
+                <xs:element name="Coloequipo" type="xs:string" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="hasta3er_Dan">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Tecnica   " type="xs:string" />
+                <xs:element name="Kata" type="xs:string" />
+                <xs:element name="kumite" type="xs:string" />
+                <xs:element name="Campeonatos" type="xs:string" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Cinturon_Negro">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Tecnica_Directa" type="xs:string" />
+                <xs:element name="Tecnica_Circulares" type="xs:string" />
+                <xs:element name="Tecnica_Pierna" type="xs:string" />
+                <xs:element name="Teoria" type="xs:string" />
+                <xs:element name="kata" type="xs:string" />
+                <xs:element name="kumite" type="xs:string" />
+                <xs:element name="Teoria" type="xs:string" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Cinturon_Negro_Primer_Dam">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Tecnica_Defenciva" type="xs:string" />
+                <xs:element name="Tecnica_Pierna" type="xs:string" />
+                <xs:element name="Tecnica_Directandirecta" type="xs:string" />
+                <xs:element name="Tecnica_Conbinada" type="xs:string" />
+                <xs:element name="Teoria" type="xs:string" />
+                <xs:element name="kata" type="xs:string" />
+                <xs:element name="Kumite" type="xs:string" />
+                <xs:element name="Aplicacion_Tenica" type="xs:string" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Cinturon_Negro_Segundo_Dam">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Tecnia_Basica" type="xs:string" />
+                <xs:element name="Tecnica_Diercta" type="xs:string" />
+                <xs:element name="Tecnica_InirectaCircular" type="xs:string" />
+                <xs:element name="Tecnica_Pierna" type="xs:string" />
+                <xs:element name="Tecnica_Conbinada" type="xs:string" />
+                <xs:element name="Teoria" type="xs:string" />
+                <xs:element name="Kata" type="xs:string" />
+                <xs:element name="kumito" type="xs:string" />
+                <xs:element name="Campeonatos" type="xs:string" />
+                <xs:element name="Tecnicas" type="xs:string" />
+                <xs:element name="Aplicaciones" />
+                <xs:element name="Aplicacion_Tecnica" />
+                <xs:element name="Demo_Libre" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+    <xs:element name="Cinturon_Negro_Tercer_Dam">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="Valoracion_Tecnica" type="xs:string" />
+                <xs:element name="Kumito" type="xs:string" />
+                <xs:element name="kata" type="xs:string" />
+                <xs:element name="Aplicacion_Tecnica" type="xs:string" />
+                <xs:element name="Teoria" type="xs:string" />
+                <xs:element name="Kumite" type="xs:string" />
+                <xs:element name="Campeonatos" type="xs:string" />
+                <xs:element name="Tecnica" type="xs:string" />
+                <xs:element name="Aplicacoines" type="xs:string" />
+                <xs:element name="Aplicacion_Tecnica" type="xs:string" />
+                <xs:element name="Demo_Libre" type="xs:string" />
+                <xs:element name="Atributos5" />
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+
+
+</xs:schema>
