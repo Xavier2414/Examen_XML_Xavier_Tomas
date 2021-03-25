@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="estiloxml.css"?>
+
+<Examen>
+    <aspirnate>
+        <id_aspirnate>1234</id_aspirnate>
+        <nombres>Biel</nombres>
+        <apellidos>Nadal</apellidos>
+        <DNI>12345678m</DNI>
+        <telefono>973154826</telefono>
+        <Direcion>carre alg 22</Direcion>
+        <Fecha_naciomento>19/09/2001</Fecha_naciomento>
+        <dan>1</dan>
+        <cinturon>amarillo</cinturon>
+        <Fecha_Ingreso_Dan>19/01/2019</Fecha_Ingreso_Dan>
+        <Foto_Aspirante>foto</Foto_Aspirante>
+        <Tiempo_Dan_Anterior>15.12</Tiempo_Dan_Anterior>
+        <Foto_DNI>foto</Foto_DNI>
+        <Foto_Carnet_Grados>foto</Foto_Carnet_Grados>
+    </aspirnate>
+
+    <resultado>
+        <id_aspirnate></id_aspirnate>
+    </resultado>
+
+    <Meritos>
+        <id_aspirnate></id_aspirnate>
+        <edad_aspirante></edad_aspirante>
+        <Licencia_Actualizada></Licencia_Actualizada>
+        <Trabajo_Escrito></Trabajo_Escrito>
+    </Meritos>
+
+    <Convalidacion_Grados>
+        <id_aspirnate></id_aspirnate>
+    </Convalidacion_Grados>
+
+    <Requisitos_Aspirantes>
+        <Solicitud_Hasta3_dam></Solicitud_Hasta3_dam>
+        <Dany4_Superior_Curriculum></Dany4_Superior_Curriculum>
+    </Requisitos_Aspirantes>
+
+    <Dispensa_Medica>
+        <id_aspirnate></id_aspirnate>
+    </Dispensa_Medica>
+
+    <Criterio_Valoracion>
+        <Indumentaria></Indumentaria>
+        <AseoPersonal></AseoPersonal>
+        <EjecucionTecnica></EjecucionTecnica>
+        <Valores></Valores>
+        <Respuestas></Respuestas>
+    </Criterio_Valoracion>
+
+    <Jueces>
+        <Id_Jueces></Id_Jueces>
+        <Nombres></Nombres>
+        <Apellidos></Apellidos>
+        <Diplomas_Juez></Diplomas_Juez>
+    </Jueces>
+
+    <Tribunal>
+        <Numero_Jueces></Numero_Jueces>
+        <Calificaion_Final></Calificaion_Final>
+    </Tribunal>
+
+    <Abonar_Cuota>
+        <Id_apirante></Id_apirante>
+    </Abonar_Cuota>
+
+    <Suspender_Examen>
+        <Id_aspirante></Id_aspirante>
+        <Supender_Parcial></Supender_Parcial>
+        <Suspende_Total></Suspende_Total>
+        <Suspende_Segunda_Fase></Suspende_Segunda_Fase>
+    </Suspender_Examen>
+
+    <Quinto_Dany_Superior>
+        <Kata></Kata>
+        <Coloequipo></Coloequipo>
+    </Quinto_Dany_Superior>
+
+    <Cinturon_Negro>
+        <Tecnica_Directa></Tecnica_Directa>
+        <Tecnica_Circulares></Tecnica_Circulares>
+        <Tecnica_Pierna></Tecnica_Pierna>
+        <Teoria></Teoria>
+        <kata></kata>
+        <kumite></kumite>
+        <Teoria></Teoria>
+    </Cinturon_Negro>
+
+    <Cinturon_Negro_Primer_Dam>
+        <Tecnica_Defenciva></Tecnica_Defenciva>
+        <Tecnica_Pierna></Tecnica_Pierna>
+        <Tecnica_Directandirecta></Tecnica_Directandirecta>
+        <Tecnica_Conbinada></Tecnica_Conbinada>
+        <Teoria></Teoria>
+        <kata></kata>
+        <Kumite></Kumite>
+        <Aplicacion_Tenica></Aplicacion_Tenica>
+    </Cinturon_Negro_Primer_Dam>
+
+    <Cinturon_Negro_Segundo_Dam>
+        <Tecnia_Basica></Tecnia_Basica>
+        <Tecnica_Diercta></Tecnica_Diercta>
+        <Tecnica_InirectaCircular></Tecnica_InirectaCircular>
+        <Tecnica_Pierna></Tecnica_Pierna>
+        <Tecnica_Conbinada></Tecnica_Conbinada>
+        <Teoria></Teoria>
+        <Kata></Kata>
+        <kumito></kumito>
+        <Campeonatos></Campeonatos>
+        <Tecnicas></Tecnicas>
+        <Aplicaciones></Aplicaciones>
+        <Aplicacion_Tecnica></Aplicacion_Tecnica>
+        <Demo_Libre></Demo_Libre>
+    </Cinturon_Negro_Segundo_Dam>
+
+    <Cinturon_Negro_Tercer_Dam>
+        <Valoracion_Tecnica></Valoracion_Tecnica>
+        <Kumito></Kumito>
+        <kata></kata>
+        <Aplicacion_Tecnica></Aplicacion_Tecnica>
+        <Teoria></Teoria>
+        <Kumite></Kumite>
+        <Campeonatos></Campeonatos>
+        <Tecnica></Tecnica>
+        <Aplicacoines></Aplicacoines>
+        <Aplicacion_Tecnica></Aplicacion_Tecnica>
+        <Demo_Libre></Demo_Libre>
+        <Atributos></Atributos>
+    </Cinturon_Negro_Tercer_Dam>
+
+</Examen>
