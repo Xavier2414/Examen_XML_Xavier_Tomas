@@ -22,41 +22,41 @@
     </aspirnate>
 
     <resultado>
-
-        <id_aspirnate></id_aspirnate>
+        <p>Resultado</p>
+        <id_aspirnate>1234</id_aspirnate>
     </resultado>
 
     <Meritos>
-
-        <id_aspirnate></id_aspirnate>
-        <edad_aspirante></edad_aspirante>
-        <Licencia_Actualizada></Licencia_Actualizada>
-        <Trabajo_Escrito></Trabajo_Escrito>
+        <p>Meritos</p>
+        <id_aspirnate>1234</id_aspirnate>
+        <edad_aspirante>18</edad_aspirante>
+        <Licencia_Actualizada>desde el 2020</Licencia_Actualizada>
+        <Trabajo_Escrito>Notable</Trabajo_Escrito>
     </Meritos>
 
     <Convalidacion_Grados>
-
-        <id_aspirnate></id_aspirnate>
+        <p>Convalidacion Grados</p>
+        <id_aspirnate>1234</id_aspirnate>
     </Convalidacion_Grados>
 
     <Requisitos_Aspirantes>
-
-        <Solicitud_Hasta3_dam></Solicitud_Hasta3_dam>
-        <Dany4_Superior_Curriculum></Dany4_Superior_Curriculum>
+        <p>Requisitos Aspirantes</p>
+        <Solicitud_Hasta3_dam>Acceptada</Solicitud_Hasta3_dam>
+        <Dany4_Superior_Curriculum>Acceptada</Dany4_Superior_Curriculum>
     </Requisitos_Aspirantes>
 
     <Dispensa_Medica>
-
-        <id_aspirnate></id_aspirnate>
+        <p>Dispensa Medica</p>
+        <id_aspirnate>1234</id_aspirnate>
     </Dispensa_Medica>
 
     <Criterio_Valoracion>
-
-        <Indumentaria></Indumentaria>
-        <AseoPersonal></AseoPersonal>
-        <EjecucionTecnica></EjecucionTecnica>
-        <Valores></Valores>
-        <Respuestas></Respuestas>
+        <p>Criterio Valoracion</p>
+        <Indumentaria>Correcta</Indumentaria>
+        <AseoPersonal>Correcta</AseoPersonal>
+        <EjecucionTecnica>Buena</EjecucionTecnica>
+        <Valores>9</Valores>
+        <Respuestas>Buenas</Respuestas>
     </Criterio_Valoracion>
 
     <Jueces>
@@ -68,84 +68,83 @@
     </Jueces>
 
     <Tribunal>
-
-        <Numero_Jueces></Numero_Jueces>
-        <Calificaion_Final></Calificaion_Final>
+        <p>Tribunal</p>
+        <Numero_Jueces>5</Numero_Jueces>
+        <Calificaion_Final>3</Calificaion_Final>
     </Tribunal>
 
     <Abonar_Cuota>
-
-        <Id_apirante></Id_apirante>
+        <p>Abonar Cuota</p>
+        <Id_apirante>1234</Id_apirante>
     </Abonar_Cuota>
 
     <Suspender_Examen>
-
-        <Id_aspirante></Id_aspirante>
-        <Supender_Parcial></Supender_Parcial>
-        <Suspende_Total></Suspende_Total>
-        <Suspende_Segunda_Fase></Suspende_Segunda_Fase>
+        <p>Suspender Examen</p>
+        <Id_aspirante>1234</Id_aspirante>
+        <Supender_Parcial> No</Supender_Parcial>
+        <Suspende_Total>No</Suspende_Total>
+        <Suspende_Segunda_Fase>No</Suspende_Segunda_Fase>
     </Suspender_Examen>
 
     <Quinto_Dany_Superior>
-
-        <Kata></Kata>
-        <Coloequipo></Coloequipo>
+        <p>Quinto Dany Superior</p>
+        <Kata>1</Kata>
+        <Coloequipo>2</Coloequipo>
     </Quinto_Dany_Superior>
 
     <Cinturon_Negro>
-
-        <Tecnica_Directa></Tecnica_Directa>
-        <Tecnica_Circulares></Tecnica_Circulares>
-        <Tecnica_Pierna></Tecnica_Pierna>
-        <Teoria></Teoria>
-        <kata></kata>
-        <kumite></kumite>
-        <Teoria></Teoria>
+        <p>Cinturon Negro</p>
+        <Tecnica_Directa>Buena</Tecnica_Directa>
+        <Tecnica_Circulares>Buena</Tecnica_Circulares>
+        <Tecnica_Pierna>Normal</Tecnica_Pierna>
+        <Teoria>Notable</Teoria>
+        <kata>5</kata>
+        <kumite>3</kumite>
     </Cinturon_Negro>
 
     <Cinturon_Negro_Primer_Dam>
-
-        <Tecnica_Defenciva></Tecnica_Defenciva>
-        <Tecnica_Pierna></Tecnica_Pierna>
-        <Tecnica_Directandirecta></Tecnica_Directandirecta>
-        <Tecnica_Conbinada></Tecnica_Conbinada>
-        <Teoria></Teoria>
-        <kata></kata>
-        <Kumite></Kumite>
-        <Aplicacion_Tenica></Aplicacion_Tenica>
+        <p>Cinturon Negro Primer Dam</p>
+        <Tecnica_Defenciva>Buena</Tecnica_Defenciva>
+        <Tecnica_Pierna>Buena</Tecnica_Pierna>
+        <Tecnica_Directandirecta>Mala</Tecnica_Directandirecta>
+        <Tecnica_Conbinada>indifenete</Tecnica_Conbinada>
+        <Teoria>Notable</Teoria>
+        <kata>2</kata>
+        <Kumite>3</Kumite>
+        <Aplicacion_Tenica>9</Aplicacion_Tenica>
     </Cinturon_Negro_Primer_Dam>
 
     <Cinturon_Negro_Segundo_Dam>
-
-        <Tecnia_Basica></Tecnia_Basica>
-        <Tecnica_Diercta></Tecnica_Diercta>
-        <Tecnica_InirectaCircular></Tecnica_InirectaCircular>
-        <Tecnica_Pierna></Tecnica_Pierna>
-        <Tecnica_Conbinada></Tecnica_Conbinada>
-        <Teoria></Teoria>
-        <Kata></Kata>
-        <kumito></kumito>
-        <Campeonatos></Campeonatos>
-        <Tecnicas></Tecnicas>
-        <Aplicaciones></Aplicaciones>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
-        <Demo_Libre></Demo_Libre>
+        <p>Cinturon Negro Segundo Dam</p>
+        <Tecnia_Basica>Normal</Tecnia_Basica>
+        <Tecnica_Diercta>Normal</Tecnica_Diercta>
+        <Tecnica_InirectaCircular>Bunea</Tecnica_InirectaCircular>
+        <Tecnica_Pierna>Normal</Tecnica_Pierna>
+        <Tecnica_Conbinada>Normal</Tecnica_Conbinada>
+        <Teoria>Acceptada</Teoria>
+        <Kata>1</Kata>
+        <kumito>2</kumito>
+        <Campeonatos>1</Campeonatos>
+        <Tecnicas>Buena</Tecnicas>
+        <Aplicaciones>3</Aplicaciones>
+        <Aplicacion_Tecnica>4</Aplicacion_Tecnica>
+        <Demo_Libre>1</Demo_Libre>
     </Cinturon_Negro_Segundo_Dam>
 
     <Cinturon_Negro_Tercer_Dam>
-
-        <Valoracion_Tecnica></Valoracion_Tecnica>
-        <Kumito></Kumito>
-        <kata></kata>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
-        <Teoria></Teoria>
-        <Kumite></Kumite>
-        <Campeonatos></Campeonatos>
-        <Tecnica></Tecnica>
-        <Aplicacoines></Aplicacoines>
-        <Aplicacion_Tecnica></Aplicacion_Tecnica>
-        <Demo_Libre></Demo_Libre>
-        <Atributos></Atributos>
+        <p>Cinturon Negro Tercer Dam</p>
+        <Valoracion_Tecnica>7</Valoracion_Tecnica>
+        <Kumito>2</Kumito>
+        <kata>1</kata>
+        <Aplicacion_Tecnica>Buena</Aplicacion_Tecnica>
+        <Teoria>Acceptada</Teoria>
+        <Kumite>2</Kumite>
+        <Campeonatos>1</Campeonatos>
+        <Tecnica>Buena</Tecnica>
+        <Aplicacoines>4</Aplicacoines>
+        <Aplicacion_Tecnica>Buena</Aplicacion_Tecnica>
+        <Demo_Libre>Buena</Demo_Libre>
+        <Atributos>Buena</Atributos>
     </Cinturon_Negro_Tercer_Dam>
 
 </Examen>

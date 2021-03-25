@@ -1,0 +1,409 @@
+Examen{
+    background-color:#6D214F ;
+    font-family: 'Lato';
+}
+
+peamen{
+    display: block;
+    text-align: center;
+    color: #fff;
+    font-size: 70px;
+}
+p{
+
+    border-spacing: 10px;
+    font-size: 25px;
+    color: #fff;
+    border: #fff 3px solid;
+   display: block;
+    left: 43%;
+}
+aspirnate{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Jueces{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Cinturon_Negro{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Cinturon_Negro_Primer_Dam{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Cinturon_Negro_Segundo_Dam{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Cinturon_Negro_Tercer_Dam{
+        display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Quinto_Dany_Superior{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Suspender_Examen{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Abonar_Cuota{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Tribunal{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Criterio_Valoracion{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+  
+}
+Requisitos_Aspirantes{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Dispensa_Medica{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Convalidacion_Grados{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center;
+}
+Meritos{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center; 
+}
+resultado{
+    display: table;
+    border-spacing: 20px;
+    border: #fff 3px solid;
+    font-size: 120%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    width: 50%;
+    color: #fff;
+    background-color: #B9367C;
+    text-align: center; 
+}
+Kumito{
+    display: block;
+}
+Aplicacoines{
+    display: block;
+}
+Atributos{
+    display: block;
+}
+Tecnia_Basica{
+display: block;
+}
+kumito{
+    display: block;
+}
+Campeonatos{
+    display: block;
+}
+Tecnicas{
+    display: block;
+}
+Aplicaciones{
+    display: block;
+}
+Aplicacion_Tecnica{
+    display: block;
+}
+Tecnica_Diercta{
+display: block;
+}
+Tecnica_InirectaCircular{
+display: block;
+}
+Tecnica_Pierna{
+display: block;
+}
+Tecnica_Conbinada{
+display: block;
+}
+Coloequipo{
+    display: block;
+}
+Supender_Parcial{
+    display: block;
+}
+Suspende_Total{
+    display: block;
+}
+Suspende_Segunda_Fase{
+    display: block;
+}
+Calificaion_Final{
+    display: block;
+}
+Indumentaria{
+    display: block;
+}
+AseoPersonal{
+    display: block;
+}
+EjecucionTecnica{
+    display: block;
+}
+Valores{
+    display: block;
+}
+Respuestas{
+    display: block;
+}
+Solicitud_Hasta3_dam{
+    display: block;
+}
+Dany4_Superior_Curriculum{
+    display: block;
+}
+edad_aspirante{
+    display: block;
+}
+Licencia_Actualizada{
+    display: block;
+}
+Trabajo_Escrito{
+    display: block;
+}
+Tecnica_Defenciva{
+display: block;
+}
+Tecnica_Pierna{
+display: block;
+}
+Tecnica_Directandirecta{
+display: block;
+}
+Tecnica_Conbinada{
+display: block;
+}
+Teoria{
+display: block;
+}
+kata{
+display: block;
+}
+Kumite{
+    display: block;
+}
+Aplicacion_Tenica{
+    display: block;
+}
+Tecnica_Directa{
+    display: block;
+}
+Tecnica_Circulares{
+    display: block; 
+}
+Tecnica_Pierna{
+    display: block;
+}
+Teoria{
+    display: block;
+}
+kata{
+    display: block;
+}
+kumite{
+    display: block;
+}
+Id_Jueces{
+display: block;
+}
+Nombres{
+display: block;
+}
+Apellidos{
+display: block;
+}
+Diplomas_Juez{
+display: block;
+}
+id_aspirnate{
+    display: block;
+}
+nombres{
+    display: block;
+}
+apellidos{
+    display: block;
+}
+DNI{
+    display: block;
+}
+telefono{
+    display: block;
+}
+Direcion{
+    display: block;
+}
+Fecha_naciomento{
+display: block;
+}
+dan{
+display: block;
+}
+cinturon{
+display: block;
+}
+Fecha_Ingreso_Dan{
+display: block;
+}
+Foto_Aspirante{
+display: block;
+}
+Tiempo_Dan_Anterior{
+display: block;
+}
+Foto_DNI{
+display: block;
+}
+Foto_Carnet_Grados{
+display: block;
+}
