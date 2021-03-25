@@ -3,6 +3,7 @@
 
 <Examen>
     <aspirnate>
+        ASPIRANTE
         <id_aspirnate>1234</id_aspirnate>
         <nombres>Biel</nombres>
         <apellidos>Nadal</apellidos>
@@ -20,63 +21,66 @@
     </aspirnate>
 
     <resultado>
-        <id_aspirnate></id_aspirnate>
+        RESULTADO
+        <id_aspirnate>3214</id_aspirnate>
     </resultado>
 
     <Meritos>
-        <id_aspirnate></id_aspirnate>
-        <edad_aspirante></edad_aspirante>
-        <Licencia_Actualizada></Licencia_Actualizada>
-        <Trabajo_Escrito></Trabajo_Escrito>
+        MERITOS
+        <id_aspirnate>2584</id_aspirnate>
+        <edad_aspirante>18</edad_aspirante>
+        <Licencia_Actualizada>6547817</Licencia_Actualizada>
+        <Trabajo_Escrito>Notable</Trabajo_Escrito>
     </Meritos>
 
     <Convalidacion_Grados>
-        <id_aspirnate></id_aspirnate>
+        CONVILIDACION GRADOS
+        <id_aspirnate>1597</id_aspirnate>
     </Convalidacion_Grados>
 
     <Requisitos_Aspirantes>
-        <Solicitud_Hasta3_dam></Solicitud_Hasta3_dam>
-        <Dany4_Superior_Curriculum></Dany4_Superior_Curriculum>
+        <Solicitud_Hasta3_dam>Acceptada</Solicitud_Hasta3_dam>
+        <Dany4_Superior_Curriculum>Acceptada</Dany4_Superior_Curriculum>
     </Requisitos_Aspirantes>
 
     <Dispensa_Medica>
-        <id_aspirnate></id_aspirnate>
+        <id_aspirnate>6548</id_aspirnate>
     </Dispensa_Medica>
 
     <Criterio_Valoracion>
-        <Indumentaria></Indumentaria>
-        <AseoPersonal></AseoPersonal>
-        <EjecucionTecnica></EjecucionTecnica>
-        <Valores></Valores>
-        <Respuestas></Respuestas>
+        <Indumentaria>1</Indumentaria>
+        <AseoPersonal>1</AseoPersonal>
+        <EjecucionTecnica>1</EjecucionTecnica>
+        <Valores>1</Valores>
+        <Respuestas>2</Respuestas>
     </Criterio_Valoracion>
 
     <Jueces>
-        <Id_Jueces></Id_Jueces>
-        <Nombres></Nombres>
-        <Apellidos></Apellidos>
-        <Diplomas_Juez></Diplomas_Juez>
+        <Id_Jueces>14728</Id_Jueces>
+        <Nombres>Xavier</Nombres>
+        <Apellidos>Tomas</Apellidos>
+        <Diplomas_Juez>true</Diplomas_Juez>
     </Jueces>
 
     <Tribunal>
-        <Numero_Jueces></Numero_Jueces>
-        <Calificaion_Final></Calificaion_Final>
+        <Numero_Jueces>1524</Numero_Jueces>
+        <Calificaion_Final>15465</Calificaion_Final>
     </Tribunal>
 
     <Abonar_Cuota>
-        <Id_apirante></Id_apirante>
+        <Id_apirante>6485</Id_apirante>
     </Abonar_Cuota>
 
     <Suspender_Examen>
-        <Id_aspirante></Id_aspirante>
-        <Supender_Parcial></Supender_Parcial>
-        <Suspende_Total></Suspende_Total>
-        <Suspende_Segunda_Fase></Suspende_Segunda_Fase>
+        <Id_aspirante>1532</Id_aspirante>
+        <Supender_Parcial>false</Supender_Parcial>
+        <Suspende_Total>fasle</Suspende_Total>
+        <Suspende_Segunda_Fase>false</Suspende_Segunda_Fase>
     </Suspender_Examen>
 
     <Quinto_Dany_Superior>
-        <Kata></Kata>
-        <Coloequipo></Coloequipo>
+        <Kata>1</Kata>
+        <Coloequipo>4</Coloequipo>
     </Quinto_Dany_Superior>
 
     <Cinturon_Negro>
